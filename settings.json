@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MinnalSMP.aternos.me:31250",
+    "ip": "MinnalSMP.aternos.me",
     "port": 31250,
     "version": "",
     "try-creative": false
