@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "minnal.qzz.io",
+    "ip": "MinnalSMP.aternos.me:31250",
     "port": 31250,
     "version": "",
     "try-creative": false
