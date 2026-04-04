@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "62.141.62.25",
-    "port": 55826,
+    "ip": "minnal.qzz.io",
+    "port": 31250,
     "version": "",
     "try-creative": false
   },
